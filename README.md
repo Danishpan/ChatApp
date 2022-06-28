@@ -1,1 +1,1 @@
-Simple iOS Chat application with image uploading functionality
+Simple iOS Chat application with log in, sign in and image uploading functionality
